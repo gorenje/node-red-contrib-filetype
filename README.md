@@ -11,8 +11,8 @@ The attribute added to the msg object is `filetype`.
 
 ### Artifacts
 
-- [NPMjs Package]()
-- [Node-RED node package]()
+- [NPMjs Package](https://www.npmjs.com/package/@gregoriusrippenstein/node-red-contrib-filetype)
+- [Node-RED node package](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-filetype)
 - [GitHub Repo](https://github.com/gorenje/node-red-contrib-filetype)
 - The flow that maintains this [codebase](https://flowhub.org/f/578e0db8206559d8).
 - [Examples in flow form](https://flowhub.org/f/0abb8904250e3eb6)
