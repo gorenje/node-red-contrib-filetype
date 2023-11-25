@@ -1,0 +1,10 @@
+{
+  "filetype": {
+    "errors": {
+      "general": "something went wrong",
+      "parsingbuffer": "error handling buffer",
+      "handlingstream": "error handling stream",
+      "handlingstring": "error handling string"
+    }
+  }
+}

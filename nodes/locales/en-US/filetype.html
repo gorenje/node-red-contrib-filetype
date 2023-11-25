@@ -1,0 +1,10 @@
+<script type="text/html" data-help-name="filetype">
+  <p>Filetype node returns the type of a buffer stream based on magic numbers.</p>
+  This is a wrapper node around the <a href="https://www.npmjs.com/package/file-type" target=_blank>file-type</a> npmjs packages.
+  <p>
+    This node does not overwrite the <code>payload</code> instead it adds a new attribute to the <code>msg</code> object, <code>filetype</code> is an object with two attributes: <code>ext</code> and <code>mime</code>.
+  <p>
+    This is the same as the original <a href="https://www.npmjs.com/package/file-type" target=_blank>package</a>.
+  <p>
+    The payload can be either a <code>Buffer</code> or <code>stream.Readable</code> or a string that is converted to a buffer.
+</script>
