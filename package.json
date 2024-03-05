@@ -14,7 +14,7 @@
   ],
 
   "license": "Don't do evil.",
-  "homepage": "https://github.com/gorenje/node-red-contrib-filetype#readme",
+  "homepage": "https://flowhub.org/f/578e0db8206559d8",
   "author": "Gerrit Riessen <gerrit@openmindmap.org>",
   "engines": {
     "node": ">=14"
